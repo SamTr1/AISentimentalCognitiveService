@@ -1,20 +1,16 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# AI Sentimental Cognitive Service
 
+AISentimentalCognitiveService is a web application that captures user input through a custom-designed HTML/CSS/JavaScript interface, processes the input using an AI API for sentiment analysis or cognitive responses, and stores the results in a SQL database. The processed response is then displayed back to the user on the web page.
+
+# Features
+Web Interface: A user-friendly interface built with HTML, CSS, and JavaScript for seamless user input.
+AI Integration: User input is processed through an AI API to perform sentiment analysis or generate cognitive responses.
+Data Persistence: The AI's response is saved in a SQL database, ensuring data can be stored, retrieved, and analyzed.
+Real-Time Display: The processed response is immediately shown on the web page, providing instant feedback to the user.
+# Skills Utilized
+HTML/CSS/JavaScript
+API Integration
+SQL Database Management
+Web Development
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
-
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Clone the repository and follow the setup instructions to run the application. Users can input text, receive AI-generated responses, and view them directly on the web page.
